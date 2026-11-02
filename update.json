@@ -1,18 +1,15 @@
 ﻿{
-  "versionCode": 23,
-  "versionName": "4.0",
+  "versionCode": 24,
+  "versionName": "4.1",
   "notes": [
-    "App 内下载更新并调起安装，不再跳浏览器",
-    "安装完成后自动清理下载包",
-    "启动软件时自动检查更新",
-    "更新源增加备用 CDN"
+    "修复功能指引从第 1 步跳到第 3 步的问题",
+    "App 内下载安装、启动自动检查、自动清理"
   ],
   "url": "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
   "urls": [
     "https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
     "https://fastly.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
-    "https://gcore.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk"
+    "https://gcore.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk"
   ],
   "force": false
 }
