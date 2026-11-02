@@ -7,12 +7,12 @@
     "启动软件时自动检查更新",
     "更新源增加备用 CDN"
   ],
-  "url": "https://fastly.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
+  "url": "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
   "urls": [
+    "https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
+    "https://fastly.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
     "https://gcore.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
-    "https://cdn.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk"
+    "https://ghproxy.net/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk"
   ],
   "force": false
 }
