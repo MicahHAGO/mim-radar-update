@@ -1,0 +1,11 @@
+﻿{
+  "versionCode": 21,
+  "versionName": "3.8",
+  "notes": [
+    "自动检查更新已接入",
+    "顶部高德 Key 建议提示",
+    "中二 / 舞萌切换、开屏、批量高德学习"
+  ],
+  "url": "https://cdn.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
+  "force": false
+}
