@@ -1,11 +1,18 @@
 ﻿{
-  "versionCode": 22,
-  "versionName": "3.9",
+  "versionCode": 23,
+  "versionName": "4.0",
   "notes": [
-    "功能指引重做，覆盖当前所有功能",
-    "关于里的「版本更新」改名为「更新历史」",
-    "清理冗余代码，功能不变"
+    "App 内下载更新并调起安装，不再跳浏览器",
+    "安装完成后自动清理下载包",
+    "启动软件时自动检查更新",
+    "更新源增加备用 CDN"
   ],
-  "url": "https://cdn.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
+  "url": "https://fastly.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
+  "urls": [
+    "https://gcore.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
+    "https://cdn.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk"
+  ],
   "force": false
 }
