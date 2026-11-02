@@ -1,10 +1,10 @@
 ﻿{
-  "versionCode": 21,
-  "versionName": "3.8",
+  "versionCode": 22,
+  "versionName": "3.9",
   "notes": [
-    "自动检查更新已接入",
-    "顶部高德 Key 建议提示",
-    "中二 / 舞萌切换、开屏、批量高德学习"
+    "功能指引重做，覆盖当前所有功能",
+    "关于里的「版本更新」改名为「更新历史」",
+    "清理冗余代码，功能不变"
   ],
   "url": "https://cdn.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
   "force": false
