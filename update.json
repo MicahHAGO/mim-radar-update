@@ -1,16 +1,14 @@
 ﻿{
-  "versionCode": 27,
-  "versionName": "4.2.3",
+  "versionCode": 28,
+  "versionName": "4.2.4",
   "notes": [
-    "数据来源和计算方式分行显示，不再截断",
-    "未填 Key 显示本地算法，填了显示已用高德 Key",
-    "App 内「在高德打开」直接唤起高德 App",
-    "下载更新前自动选择最快线路，并显示下载进度"
+    "修复 CDN 缓存导致检查到 4.1 / 4.2.2 旧版本的问题",
+    "更新清单改用时间戳请求，只从会随仓库更新的源读取"
   ],
-  "url": "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
+  "url": "https://fastly.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
   "urls": [
+    "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
     "https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
-    "https://fastly.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
     "https://gcore.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk"
   ],
   "force": false
