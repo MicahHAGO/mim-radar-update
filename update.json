@@ -1,10 +1,11 @@
 ﻿{
-  "versionCode": 26,
-  "versionName": "4.2.2",
+  "versionCode": 27,
+  "versionName": "4.2.3",
   "notes": [
-    "点击高德 Key 提示直接跳到 Key 输入框",
-    "高德 Key 提示补充精准度收益说明",
-    "高德 Key 图文教程增加 4 张步骤示意图"
+    "数据来源和计算方式分行显示，不再截断",
+    "未填 Key 显示本地算法，填了显示已用高德 Key",
+    "App 内「在高德打开」直接唤起高德 App",
+    "下载更新前自动选择最快线路，并显示下载进度"
   ],
   "url": "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
   "urls": [
