@@ -1,15 +1,14 @@
 ﻿{
-  "versionCode": 28,
-  "versionName": "4.2.4",
+  "versionCode": 30,
+  "versionName": "4.3.1",
   "notes": [
-    "修复 CDN 缓存导致检查到 4.1 / 4.2.2 旧版本的问题",
-    "更新清单改用时间戳请求，只从会随仓库更新的源读取"
+    "本地估算增加 6 分钟进出站/找店缓冲",
+    "没有高德 Key 时初始时间更接近高德真实值"
   ],
   "url": "https://fastly.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk",
   "urls": [
     "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
-    "https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
-    "https://gcore.jsdelivr.net/gh/MicahHAGO/mim-radar-update@main/MIMRADAR.apk"
+    "https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk"
   ],
   "force": false
 }
