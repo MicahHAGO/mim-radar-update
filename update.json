@@ -1,9 +1,10 @@
 ﻿{
-  "versionCode": 24,
-  "versionName": "4.1",
+  "versionCode": 25,
+  "versionName": "4.2.1",
   "notes": [
     "修复功能指引从第 1 步跳到第 3 步的问题",
-    "App 内下载安装、启动自动检查、自动清理"
+    "检查更新增加超时和备用源，避免长时间卡住",
+    "启动后更早检查更新"
   ],
   "url": "https://ghfast.top/https://raw.githubusercontent.com/MicahHAGO/mim-radar-update/main/MIMRADAR.apk",
   "urls": [
